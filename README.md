@@ -1,2 +1,1 @@
-# security-flh0cu
-CSRF Protection Bypass
+## https://github.com/gratipay/security-flh0cu/issues/1
